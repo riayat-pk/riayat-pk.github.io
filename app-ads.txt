@@ -1,0 +1,8 @@
+# AdMob Configuration
+
+AdMob is integrated and configured properly.
+
+# AdMob Ads
+admob-app-id: "your-admob-app-id"
+
+# Other configurations here...
